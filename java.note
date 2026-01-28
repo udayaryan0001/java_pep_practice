@@ -1,0 +1,7 @@
+blueprint->class
+1. data members->properties of states
+2. constructor()
+3.behaviourmethod->m1 m2 m3...
+4.toString()->overrided->hashcode() 
+5.getters and setters
+
