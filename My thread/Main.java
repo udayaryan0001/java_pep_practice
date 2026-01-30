@@ -14,7 +14,7 @@ class SequentialExecution {
                 printhi();
             }
         }
-        Mythread t3 = new Mythread();
+        Mythread t3 = new Mythread();vvvvvhhhh
         {
             @Override
             public void run() {
@@ -35,7 +35,8 @@ class SequentialExecution {
 
 // // task second
 // void printhi() {
-// System.err.println("hii there");
+// System.err.prin
+// tln("hii there");
 // }
 
 // // task third
